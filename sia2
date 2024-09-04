@@ -1,3 +1,5 @@
+
+hy2://ae27c1c919c3c89c@[2a12:5940:4325::2]:9443?obfs=salamander&obfs-password=32e996ddebffe0ac&insecure=1&sni=www.google.com#Hysteria2-HY2-V6
 hy2://sia1%3Auc719T37ECX6mwvdG9nX10D6UvSc2ALP@45.11.93.212:9443?obfs=salamander&obfs-password=PZOmJr6fljfPPITfJAi7aLyjWDLqTa7A&pinSHA256=sha256/rRhqi/KeVqop3UEnNZvyrVvZGqB7R+KFEo4ISqFkIcw=&insecure=1&sni=bts.com#sia1-IPv4
 
 hy2://sia1%3Auc719T37ECX6mwvdG9nX10D6UvSc2ALP@[]:9443?obfs=salamander&obfs-password=PZOmJr6fljfPPITfJAi7aLyjWDLqTa7A&pinSHA256=sha256/rRhqi/KeVqop3UEnNZvyrVvZGqB7R+KFEo4ISqFkIcw=&insecure=1&sni=bts.com#sia1-IPv6
