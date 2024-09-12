@@ -1,3 +1,7 @@
 hy2://sia1%3Auc719T37ECX6mwvdG9nX10D6UvSc2ALP@45.11.93.212:9443?obfs=salamander&obfs-password=PZOmJr6fljfPPITfJAi7aLyjWDLqTa7A&pinSHA256=sha256/rRhqi/KeVqop3UEnNZvyrVvZGqB7R+KFEo4ISqFkIcw=&insecure=1&sni=bts.com#sia1-IPv4
 
 hy2://zsia1%3A8gr5K9tOFeUAbzCKeygiPp0zVZClrLCI@[2a12:5940:4325::2]:1155?obfs=salamander&obfs-password=fcIHTXhWNTC9bSP4S4t1szDWsSTJ8DPr&pinSHA256=sha256/VaLnBmGkbwWserecynAlCaBC2+S+S5nKnfnhMsUOF9Y=&insecure=1&sni=bts.com#zsia1-IPv6
+
+hy2://zsia1%3AyNETdYaNmsMJ54ltk676mzeG4L1OiDP7@176.124.207.124:7766?obfs=salamander&obfs-password=m5XcEl0xnKws0kGt6tDG8Lb1GEFGmbBI&pinSHA256=sha256/8OSdPoBVta4Cmx+RRyc3btNXBjHfLgyhSzsiKKaqz1k=&insecure=1&sni=google.com#zsia1-IPv4
+
+hy2://zsia1%3AyNETdYaNmsMJ54ltk676mzeG4L1OiDP7@[2a0b:4140:97fc::2]:7766?obfs=salamander&obfs-password=m5XcEl0xnKws0kGt6tDG8Lb1GEFGmbBI&pinSHA256=sha256/8OSdPoBVta4Cmx+RRyc3btNXBjHfLgyhSzsiKKaqz1k=&insecure=1&sni=google.com#zsia1-IPv6
